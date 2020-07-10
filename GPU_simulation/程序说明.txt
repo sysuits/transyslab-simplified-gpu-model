@@ -1,0 +1,5 @@
+仿真主程序为 simulation.cu文件
+头文件为各路网属性对象
+
+语言：visual C++
+环境配置：Visual Studio 2015，CUDA9.2
